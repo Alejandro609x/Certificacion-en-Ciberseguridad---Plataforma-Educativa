@@ -1,9 +1,3 @@
-
-
-Aquí tienes una versión más llamativa y atractiva para tu archivo README en GitHub. He agregado algunos elementos de formato y estilo que harán que se vea más organizado y fácil de leer:
-
-markdown
-Copiar código
 # **Certificación en Ciberseguridad** 🚀
 
 Plataforma educativa sobre **ciberseguridad**, diseñada para enseñar conceptos fundamentales de manera interactiva y accesible para todos.
